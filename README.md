@@ -22,5 +22,5 @@ My name is Gali 👩🏼‍💻 and I am a web developer 🚀.
 My Final Project ✅ Front-End | Back-End
 
 📫 How to reach me:
-- [Email](https://www.gali.shipod.1955@gmail.com) 
+- [Email](gali.shipod.1955@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/gali-brill/)
