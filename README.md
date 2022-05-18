@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Web Development the fun way 🤪
+My name is Gali 🧑🏼‍💻 and I am a junior web developer 🚀.
+
+🔭 I'm currently working on some fun projects that I want to bring to life.
+
+My Final Project ✅ Front-End | Back-End
+
+📫 How to reach me:
+Email LinkedIn
